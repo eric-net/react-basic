@@ -292,3 +292,5 @@ function App(data) {
 }
 ```
 
+* [React Concepts]([(https://payalpaul2436.medium.com/10-main-core-concept-you-need-to-know-about-react-303e986e1763)]) 
+
